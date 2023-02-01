@@ -260,7 +260,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.openxr.picoxr": {
-      "version": "file:C:/Users/Angel/Desktop/a",
+      "version": "file:F:/unity/PICO",
       "depth": 0,
       "source": "local",
       "dependencies": {
